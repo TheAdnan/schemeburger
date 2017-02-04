@@ -1,4 +1,4 @@
-# Fish-eye-Lens-script-for-GIMP
+# Fish-eye Lens script for GIMP
 Fish-eye Lens script written in Scheme for GIMP. The script creates a cheap Go-Pro camera Fish-eye lens effect. You can optionally turn off the adjusting of the levels of the image before the script executes (I've added it for experimental purposes)
 
 ## Instalation:
