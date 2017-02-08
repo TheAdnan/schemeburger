@@ -44,4 +44,4 @@
 	SF-DRAWABLE "Layer" 0
 	SF-TOGGLE "Auto adjust levels" TRUE
 )
-(script-fu-menu-register "fish-eye-effect" _"<Image>/Filters/Enhance")
+(script-fu-menu-register "fish-eye-effect" _"<Image>/Filters/Enhance/Kicin")
